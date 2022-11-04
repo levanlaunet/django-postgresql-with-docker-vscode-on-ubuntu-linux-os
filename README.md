@@ -1,2 +1,5 @@
-# django-postgresql-with-docker-vscode-on-ubuntu-linux-os
-Django, PostgreSql with Docker, VScode on Ubuntu Linux OS
+# Django, PostgreSql with Docker, VScode on Ubuntu Linux OS
+
+### Youtube video : https://youtu.be/Ts_Ks_hQJc0
+### Blog : https://levanlau.net
+
